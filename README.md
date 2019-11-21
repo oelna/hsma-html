@@ -7,3 +7,5 @@ Kursaufgaben für meinen Kurs HTML an der Hochschule Mannheim
 - Stunde 4: Videoplayer
 - Stunde 5: SVG Bedienelemente
 - [Stunde 6: Slideshow](uebung_06.md)
+- Stunde 7: keine Aufgabe
+- [Stunde 8: Responsive Images](uebung_08.md)
