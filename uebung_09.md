@@ -95,7 +95,13 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 
 ## Referenzen und weiterführende Links
 
-- [vue.js](https://vuejs.org/) (Framework für Webanwendungen, [Wikipedia-Link](https://de.wikipedia.org/wiki/Vue.js))
-- [dragula](https://bevacqua.github.io/dragula/) (drag and drop Library)
+- [Liste von Textadventures](https://de.wikipedia.org/wiki/Liste_von_Textadventures) (Wikipedia)
+- [Die Myst-Ära](https://de.wikipedia.org/wiki/Adventure#Die_Myst-%C3%84ra) (Wikipedia)
+
+### Libraries und Tutorials
+
+- [Vue.js](https://vuejs.org/) (Framework für Webanwendungen, [Wikipedia-Link](https://de.wikipedia.org/wiki/Vue.js))
+- [Dragula](https://bevacqua.github.io/dragula/) (drag and drop Library)
 - [Javascript Game Loops](https://developer.mozilla.org/en-US/docs/Games/Anatomy) (MDN)
 - [Responsive Image Maps](https://wiki.selfhtml.org/wiki/SVG/Tutorials/responsive_Imagemaps) (SelfHTML)
+- [My JSON Server](https://my-json-server.typicode.com/) (Simple API mit JSON und Github)
