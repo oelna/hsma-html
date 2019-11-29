@@ -99,6 +99,11 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [Die Myst-Ära](https://de.wikipedia.org/wiki/Adventure#Die_Myst-%C3%84ra) (Wikipedia)
 - [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 
+### Code-Beispiele
+
+- [SVG Image Maps](https://gist.github.com/oelna/1efd149dcb9ea0fa8b526a44ff108446) (klickbare Bereiche in Bildern)
+- [Random Title Generator](https://gist.github.com/oelna/d85427f6704c2904f537bfec62ca79ec) (zufällig generierte Text-Titel)
+
 ### Libraries und Tutorials
 
 - [Vue.js](https://vuejs.org/) (Framework für Webanwendungen, [Wikipedia-Link](https://de.wikipedia.org/wiki/Vue.js))
