@@ -99,6 +99,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [Die Myst-Ära](https://de.wikipedia.org/wiki/Adventure#Die_Myst-%C3%84ra) (Wikipedia)
 - [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 - [ChooseYourStory.com](http://chooseyourstory.com/) (Choose-Your-Own-Adventure style storygames)
+- [AI Dungeon](http://ai-adventure.appspot.com/) (AI generated text adventure)
 
 ### Code-Beispiele
 
