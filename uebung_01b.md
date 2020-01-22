@@ -27,7 +27,7 @@ Hat man den Wert berechnet, muss man ihn noch sichtbar auf der Seite platzieren,
 document.querySelector('p#deine-id').innerHTML = ergebnisWert;
 ```
 
-Bonusaufgabe:
+**Bonusaufgabe:**
 
 - Man kann evtl. eine Bedingung vorsehen, dass auch Tage nach Weihnachten ein korrektes Ergebnis ausgeben. (siehe Javascript [`if`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Statements/if...else))
 - Man kann die generierten Datumsangaben so umformulieren, dass sie für jedes Jahr funktionieren, nicht nur 2019. Mit [`Date().getFullYear()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Date/getFullYear) lässt sich das aktuelle Jahr herausfinden.

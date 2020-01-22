@@ -20,7 +20,7 @@ let targetElement = document.querySelector('#slide-' + slideIndex);
 targetElement.classList.add('sichtbar');
 ```
 
-Bonusaufgabe:
+**Bonusaufgabe:**
 
 - Die Übergänge zwischen den einzelnen Folien lassen sich auch animieren. Dafür kann man entweder Javascript verwenden, oder etwas moderner Arbeiten und CSS Transitions einsetzen. Damit lassen sich Übergänge von zB. `opacity: 0.0` zu `opacity: 1.0` sanft animieren.
 

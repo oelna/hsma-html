@@ -21,7 +21,7 @@ Denke auch daran, deine JPG- oder PNG-Dateien mit [ImageOptim](https://imageopti
      src="pasta-alla-chef-800w.jpg" alt="Nudeln mit Schinken, Erbsen und Sahne" />
 ```
 
-Bonusaufgabe:
+**Bonusaufgabe:**
 
 - Verwende das `type`-Attribut, um deinen `<picture>`-Elementen Bilddateien in verschiedenen Formaten zur Verfügung zu stellen, zum Beispiel in [`.WEBP`](https://de.wikipedia.org/wiki/WebP)
 
