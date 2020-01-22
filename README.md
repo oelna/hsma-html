@@ -2,8 +2,8 @@ Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannhei
 
 - Stunde 1a: HTML- und CSS-Vorlagen umsetzen
 - [Stunde 1b: Tage bis Weihnachten berechnen](uebung_01b.md)
-- Stunde 2a: Rasterplakat
-- Stunde 2b: Spielautomat
+- [Stunde 2a: Rasterplakat](uebung_02a.md)
+- [Stunde 2b: Spielautomat](uebung_02b.md)
 - Stunde 3: Zufällige Buchstaben
 - Stunde 4: Videoplayer
 - Stunde 5: SVG Bedienelemente
