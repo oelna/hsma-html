@@ -1,6 +1,7 @@
 Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannheim](http://www.gestaltung.hs-mannheim.de)
 
-- Stunde 1: HTML- und CSS-Vorlagen umsetzen
+- Stunde 1a: HTML- und CSS-Vorlagen umsetzen
+- [Stunde 1b: Tage bis Weihnachten berechnen](uebung_01b.md)
 - Stunde 2a: Rasterplakat
 - Stunde 2b: Spielautomat
 - Stunde 3: Zufällige Buchstaben
