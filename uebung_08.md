@@ -41,7 +41,9 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 - [ImageOptim](https://imageoptim.com/versions) (Mac)
 - [FileOptimizer](https://sourceforge.net/projects/nikkhokkho/) (Win)
+- [Squoosh](https://squoosh.app/) (Website)
 
 ### Verschiedene
 
 - [CSS-Tricks: Responsive Images](https://css-tricks.com/responsive-images-css/) (englisch)
+- [Understanding DPI](https://affinityspotlight.com/article/understanding-dpi/) (englisch)
