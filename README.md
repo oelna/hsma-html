@@ -4,7 +4,8 @@ Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannhei
 - [Stunde 1b: Tage bis Weihnachten berechnen](uebung_01b.md)
 - [Stunde 2a: Rasterplakat](uebung_02a.md)
 - [Stunde 2b: Spielautomat](uebung_02b.md)
-- Stunde 3: Zufällige Buchstaben
+- Stunde 3a: Media Queries (Keine Aufgabe)
+- [Stunde 3b: Zufällige Buchstaben](uebung_03b.md)
 - Stunde 4: Videoplayer
 - Stunde 5: SVG Bedienelemente
 - [Stunde 6: Slideshow](uebung_06.md)
