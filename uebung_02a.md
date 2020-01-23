@@ -38,3 +38,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [grid](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/grid)
 - [position](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Positionierung/position) (für diese Übung nicht empfohlen)
 - [float](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Positionierung/float) (für diese Übung nicht empfohlen)
+
+### Verschiedene
+
+- [Swiss Posters in CSS](https://swissincss.com/zurich-tonhalle-1955)
