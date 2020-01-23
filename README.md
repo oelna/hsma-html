@@ -8,10 +8,12 @@ Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannhei
 - [Stunde 3b: Zufällige Buchstaben](uebung_03b.md)
 - [Stunde 4: Videoplayer](uebung_04.md)
 - [Stunde 5: SVG Bedienelemente](uebung_05.md)
+- Stunde 6: Git (Keine Aufgabe)
 - [Stunde 6: Slideshow](uebung_06.md)
-- Stunde 7: keine Aufgabe
+- Stunde 7: Keine Aufgabe
 - [Stunde 8: Responsive Images](uebung_08.md)
-- [Stunde 9: Adventure Game](uebung_09.md)
+- Stunde 9: RSS (Keine Aufgabe)
+- [Stunde 9: Semesteraufgabe - Adventure Game](uebung_09.md)
 
 
 **Angebot: GitHub Student Developer Pack**
