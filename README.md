@@ -1,5 +1,7 @@
 Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannheim](http://www.gestaltung.hs-mannheim.de)
 
+Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch einen Einsteig in Programmierung mit Javascript. Die Kurzzeit ist in der Regel aufgeteilt in zwei Hälften; die erste behandelt HTML, CSS und verschiedene verwandte Themen, die zweite, nach einer kurzen Pause, immer bestimmte Aspekte von Javascript. Manchmal gibt es zur Übung eine, manchmal zwei verschiedene Aufgaben.
+
 - Stunde 1a: HTML- und CSS-Vorlagen umsetzen
 - [Stunde 1b: Tage bis Weihnachten berechnen](uebung_01b.md)
 - [Stunde 2a: Rasterplakat](uebung_02a.md)
@@ -15,8 +17,11 @@ Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannhei
 - Stunde 9: RSS (Keine Aufgabe)
 - [Stunde 9: Semesteraufgabe - Adventure Game](uebung_09.md)
 
+### Erste Schritte in Javascript
 
-**Angebot: GitHub Student Developer Pack**
+[Javascript Crash-Course](https://gist.github.com/oelna/07ff3213988e14e8eeade82d5d344dec) (befindet sich noch in der Übersetzung und Überarbeitung)
+
+### Angebot: GitHub Student Developer Pack
 
 Das [GitHub Student Developer Pack](https://education.github.com/pack) ist eine Sammlung **kostenloser** Software- und Onlinedienst-Angebote, die Studierenden, die einen Github-Account [besitzen](https://education.github.com/benefits) ([oder erstellen!](https://github.com/join)) kostenlos zur Verfügung gestellt wird.
 
