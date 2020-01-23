@@ -35,7 +35,7 @@ Wenn du möchtest, nutze [Git](https://git-scm.com/) (siehe auch PDF der entspre
 ### Optionale Ideen
 
 - Bildlastiges Spiel, à la [Myst](https://de.wikipedia.org/wiki/Myst#Myst)
-- Fantasy- oder Science-Fiction-Themen (Lovecraft?) vs. realitätsnaher Fakultäts-Tatort
+- Fantasy- oder Science-Fiction-Themen ([Lovecraft?](https://en.wikisource.org/wiki/Author:Howard_Phillips_Lovecraft#Short_stories)) vs. realitätsnaher Fakultäts-Tatort
 - Bedienelemente als Grafiken. Falls du simple Icons für die Bedienung verwendest, sollten diese im Format `SVG` hergestellt werden, zB. in [Sketch](https://www.sketch.com/store/edu/), Illustrator oder notfalls von Hand.
 - Visuelle Rückmeldung, zB. [Dialoge](https://developer.mozilla.org/de/docs/Web/HTML/Element/dialog) oder [Toasts](https://codepen.io/kipp0/pen/pPNrrj), für gängige Aktionen.
 - Rollenspiel-Aspekte wie Spielereigenschaften (Glück, Stärke, Lebenskraft). Diese liessen sich gut in einem globalen `Javascript`-Objekt, oder Variablen, ablegen.
@@ -96,6 +96,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 ## Referenzen und weiterführende Links
 
 - [Liste von Textadventures](https://de.wikipedia.org/wiki/Liste_von_Textadventures) (Wikipedia)
+- [Liste von Lovecraft-Texten](https://en.wikisource.org/wiki/Author:Howard_Phillips_Lovecraft#Short_stories)
 - [Die Myst-Ära](https://de.wikipedia.org/wiki/Adventure#Die_Myst-%C3%84ra) (Wikipedia)
 - [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 - [ChooseYourStory.com](http://chooseyourstory.com/) (Choose-Your-Own-Adventure style storygames)
