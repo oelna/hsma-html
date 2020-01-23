@@ -40,6 +40,8 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 ## Referenzen und weiterführende Links
 
+- [Javascript Crash-Course](https://gist.github.com/oelna/07ff3213988e14e8eeade82d5d344dec)
+
 ### MDN
 
 - [Date()](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Date)
