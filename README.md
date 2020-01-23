@@ -7,7 +7,7 @@ Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannhei
 - Stunde 3a: Media Queries (Keine Aufgabe)
 - [Stunde 3b: Zufällige Buchstaben](uebung_03b.md)
 - [Stunde 4: Videoplayer](uebung_04.md)
-- Stunde 5: SVG Bedienelemente
+- [Stunde 5: SVG Bedienelemente](uebung_05.md)
 - [Stunde 6: Slideshow](uebung_06.md)
 - Stunde 7: keine Aufgabe
 - [Stunde 8: Responsive Images](uebung_08.md)
