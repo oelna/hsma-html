@@ -33,6 +33,8 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 ### Elemente
 
+- [Simple Slideshow with Flexbox](http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/) (englisch)
+
 #### MDN
 
 - [addEventListener()](https://developer.mozilla.org/de/docs/Web/API/EventTarget/addEventListener)
