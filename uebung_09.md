@@ -97,6 +97,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 
 - [Liste von Textadventures](https://de.wikipedia.org/wiki/Liste_von_Textadventures) (Wikipedia)
 - [Liste von Lovecraft-Texten](https://en.wikisource.org/wiki/Author:Howard_Phillips_Lovecraft#Short_stories)
+- [Lovecraft-Texte als eBook](https://www.kotzendes-einhorn.de/blog/2018-10/the-complete-works-of-h-p-lovecraft-als-gratis-e-book/)
 - [Die Myst-Ära](https://de.wikipedia.org/wiki/Adventure#Die_Myst-%C3%84ra) (Wikipedia)
 - [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 - [ChooseYourStory.com](http://chooseyourstory.com/) (Choose-Your-Own-Adventure style storygames)
