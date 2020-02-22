@@ -19,7 +19,7 @@ Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch ei
 
 ### Praktisches Wissen in kompakter Form
 
-- [Javascript Crash-Course](https://gist.github.com/oelna/07ff3213988e14e8eeade82d5d344dec) (befindet sich noch in der Übersetzung und Überarbeitung)
+- [Javascript Crash-Course](https://gist.github.com/oelna/5b7fa9f53331130ba4281d23532f3dff)
 - [Liste aller wichtigen Metadaten im `<head>`](https://gist.github.com/oelna/192663f21e81e5467658332259b90a09)
 
 ### Angebot: GitHub Student Developer Pack
