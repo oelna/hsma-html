@@ -114,6 +114,8 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 
 - [Vue.js](https://vuejs.org/) (Framework für Webanwendungen, [Wikipedia-Link](https://de.wikipedia.org/wiki/Vue.js))
 - [Dragula](https://bevacqua.github.io/dragula/) (drag and drop Library)
+- [random.js](https://github.com/oelna/random.js) (Zufallszahlen generieren)
+- [chance.js](https://github.com/chancejs/chancejs) (Bessere Zufallszahlen generieren, dafür komplexer)
 - [Javascript Game Loops](https://developer.mozilla.org/en-US/docs/Games/Anatomy) (MDN)
 - [Responsive Image Maps](https://wiki.selfhtml.org/wiki/SVG/Tutorials/responsive_Imagemaps) (SelfHTML)
 - [My JSON Server](https://my-json-server.typicode.com/) (Simple API mit JSON und Github)
