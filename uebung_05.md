@@ -49,6 +49,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 - [SVG](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics) (Wikipedia)
 - [An in-depth SVG tutorial](https://flaviocopes.com/svg/) (englisch)
+- [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) (englisch)
 - [Cubic Bézier Curve Example](http://blogs.sitepointstatic.com/examples/tech/svg-curves/cubic-curve.html)
 - [An illustrated guide to the `path` syntax](https://css-tricks.com/svg-path-syntax-illustrated-guide/)
 - [StackOverflow: Is the `xmlns` parameter needed?](https://stackoverflow.com/a/34249810/3625228)
