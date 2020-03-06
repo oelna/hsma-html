@@ -102,7 +102,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 - [ChooseYourStory.com](http://chooseyourstory.com/) (Choose-Your-Own-Adventure style storygames)
 - [AI Dungeon](http://ai-adventure.appspot.com/), [AI Dungeon 2](https://play.aidungeon.io/) (AI generated text adventure)
-
+- [Dolmenlore](https://mass-driver.com/dolmenlore) (vue.js-based text adventure)
 
 ### Code-Beispiele
 
