@@ -2,7 +2,7 @@ Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannhei
 
 Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch einen Einsteig in Programmierung mit Javascript. Die Kurzzeit ist in der Regel aufgeteilt in zwei Hälften; die erste behandelt HTML, CSS und verschiedene verwandte Themen, die zweite, nach einer kurzen Pause, immer bestimmte Aspekte von Javascript. Manchmal gibt es zur Übung eine, manchmal zwei verschiedene Aufgaben.
 
-- Stunde 1a: HTML- und CSS-Vorlagen umsetzen
+- [Stunde 1a: HTML- und CSS-Vorlagen umsetzen](uebung_01a.md)
 - [Stunde 1b: Tage bis Weihnachten berechnen](uebung_01b.md)
 - [Stunde 2a: Rasterplakat](uebung_02a.md)
 - [Stunde 2b: Spielautomat](uebung_02b.md)
@@ -20,6 +20,7 @@ Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch ei
 ### Praktisches Wissen in kompakter Form
 
 - [Javascript Crash-Course](https://gist.github.com/oelna/5b7fa9f53331130ba4281d23532f3dff)
+- [Zusammenfassung der Inhalte aus INT](https://github.com/oelna/hsma-int/blob/master/test-vorbereitung.md)
 - [Liste aller wichtigen Metadaten im `<head>`](https://gist.github.com/oelna/192663f21e81e5467658332259b90a09)
 
 ### Angebot: GitHub Student Developer Pack
@@ -29,3 +30,30 @@ Das [GitHub Student Developer Pack](https://education.github.com/pack) ist eine 
 Es beinhaltet unter anderen auch einen kostenlosen Domainnamen über [name.com](https://name.com/), sowie kostenlos-für-1-Jahr Domains von namecheap und .tech-domains. Ebenfalls enthalten sind viele Online-Kurse für `HTML`, `CSS`, `Javascript` und mehr.
 
 [Die Registrierung](https://education.github.com/pack) ist kostenlos und es gibt keinen Haken. Nebenbei erhält man nach der Verifikation einen Github Pro Account (normalerweise $85/Jahr) mit unbegrenzten öffentlichen und privaten Repositories.
+
+### Bücher zum Thema
+
+Die genannten Bücher sind in keinster Weise für die Teilnahme am Kurs erforderlich, sind aber von mir auf Seriosität geprüft und funktionieren gut ergänzend zum Kurs. Eventuell lohnt sich vor der Anschaffung auch zu prüfen, ob spätere Semester eventuell Exemplare gebraucht verkaufen möchten (nachdem Sie die Inhalte gemeistert haben?)
+
+- [HTML & CSS](https://amzn.to/2TEietP) (deutsch, €40, auch im [OPAC](https://bsz.ibs-bw.de/opac24) ausleihbar)
+- [HTML & CSS](https://amzn.to/38Hd1pz) (englisch, €22)
+- [Javascript & jQuery](https://amzn.to/334TuhJ) (deutsch, €45)
+- [Javascript & jQuery](https://amzn.to/2wJ72mQ) (englisch, €30)
+
+(Amazon Affiliate Links)
+
+Ehrlich gesagt ist auch die komplette (englische) "A Book Apart"-Reihe richtig gut und kurzweilig zu lesen, aber wenn man nur die für den Kurs wichtigsten Bände lesen will:
+
+- [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
+- [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
+- [Javascript for Web Designers](https://abookapart.com/products/javascript-for-web-designers)
+- [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
+- [Mobile First](https://abookapart.com/products/mobile-first)
+
+Und weiterführend
+
+- [Git for Humans](https://abookapart.com/products/git-for-humans)
+- [Practical SVG](https://abookapart.com/products/practical-svg)
+- [The New CSS Layout](https://abookapart.com/products/the-new-css-layout)
+
+Viele davon sind auch mit je einem Exemplar in der Bibliothek vetreten, online auffindbar im [OPAC](https://bsz.ibs-bw.de/opac24).

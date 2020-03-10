@@ -4,7 +4,7 @@ Teste deine Erinnerung an die Themen aus INT, indem du Vorlagen in HTML und CSS 
 
 ## Anweisung
 
-Erstelle eine `HTML`-Seite, auf der die dargestellten Interface-Elemente umsetzt. Falls du zu viel vergessen hast, ist die INT-Stunde mit der Testvorbereitung eine gute Referenz, um schnell wieder einzusteigen.
+Erstelle eine `HTML`-Seite, auf der die dargestellten Interface-Elemente umsetzt. Falls du zu viel vergessen hast, ist die [INT-Stunde mit der Testvorbereitung](https://github.com/oelna/hsma-int/blob/master/test-vorbereitung.md) eine gute Referenz, um schnell wieder einzusteigen.
 
 ### Horizontale Navigation
 
