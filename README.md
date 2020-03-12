@@ -17,10 +17,14 @@ Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch ei
 - Stunde 9: RSS (Keine Aufgabe)
 - [Stunde 9: Semesteraufgabe - Adventure Game](uebung_09.md)
 
+### Voraussetzung
+
+Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["INT: Internet-Technik"](https://github.com/oelna/hsma-int) auf. Um teilzunehmen sind einigermaßen solide Grundkenntnisse in HTML und CSS erforderlich. Diese müssen nicht in INT erworben worden sein, sondern können zB. auch aus den unten genannten Büchern stammen, oder anhand der [Aufgaben und Materialien vom ersten Semester](https://github.com/oelna/hsma-int) wiederholt werden.
+
 ### Praktisches Wissen in kompakter Form
 
-- [Javascript Crash-Course](https://gist.github.com/oelna/5b7fa9f53331130ba4281d23532f3dff)
 - [Zusammenfassung der Inhalte aus INT](https://github.com/oelna/hsma-int/blob/master/test-vorbereitung.md)
+- [Javascript Crash-Course](https://gist.github.com/oelna/5b7fa9f53331130ba4281d23532f3dff)
 - [Liste aller wichtigen Metadaten im `<head>`](https://gist.github.com/oelna/192663f21e81e5467658332259b90a09)
 
 ### Angebot: GitHub Student Developer Pack
