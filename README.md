@@ -29,7 +29,8 @@ Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["INT:
 
 ### Angebot: GitHub Student Developer Pack
 
-Das [GitHub Student Developer Pack](https://education.github.com/pack) ist eine Sammlung **kostenloser** Software- und Onlinedienst-Angebote, die Studierenden, die einen Github-Account [besitzen](https://education.github.com/benefits) ([oder erstellen!](https://github.com/join)) kostenlos zur Verfügung gestellt wird.
+Das [GitHub Student Developer Pack](https://education.github.com/pack) ist eine Sammlung **kostenloser** Software- und Onlinedienst-Angebote, die Studierenden, die einen Github-Account [besitzen](https://education.github.com/benefits) ([oder erstellen!](https://github.com/join)) kostenlos zur Verfügung gestellt wird.  
+(Man sollte dann seine @stud.hs-mannheim.de Adresse verwenden oder zumindest im Account zusätzlich verlinken, dass klar ist, dass man von einer Hochschule kommt, dann hat man weniger Stress, das später nachzuweisen.)
 
 Es beinhaltet unter anderen auch einen kostenlosen Domainnamen über [name.com](https://name.com/), sowie kostenlos-für-1-Jahr Domains von namecheap und .tech-domains. Ebenfalls enthalten sind viele Online-Kurse für `HTML`, `CSS`, `Javascript` und mehr.
 
