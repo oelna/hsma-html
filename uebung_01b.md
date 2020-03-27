@@ -17,7 +17,7 @@ let heute = new Date().getTime();
 
 Das Datum von Weihnachten:
 ```javascript
-let heute = new Date(2019, 11, 24).getTime();
+let xmas = new Date(2019, 11, 24).getTime();
 ```
 
 Weil es sich um Millisekundenwerte handelt, muss man zunächst durch `1000` teilen (ergibt Sekunden), danach durch `60` (ergibt Minuten), nochmal durch `60` (ergibt Stunden), zuletzt durch `24` (ergibt Tage).
