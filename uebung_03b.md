@@ -37,3 +37,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [Media Queries](https://developer.mozilla.org/de/docs/Web/CSS/Media_Queries/Using_media_queries) (englisch)
 - [Schleifen in Javascript, "Loops"](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code) (englisch)
 - [Document Object Model, "DOM"](https://developer.mozilla.org/de/docs/Gecko-DOM-Referenz/Einf%C3%BChrung)
+
+### StackOverflow
+
+- [innerHTML, innerTextm, textContent, nodeValue](https://stackoverflow.com/questions/21311299/nodevalue-vs-innerhtml-and-textcontent-how-to-choose)
