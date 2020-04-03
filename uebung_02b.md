@@ -10,7 +10,7 @@ Du benötigst drei Elemente, in denen das Resultat ausgegeben wird, zB. ein `<ul
 
 Die drei Wertepools der Maschine simulieren wir mit drei Arrays, die zB. so aussehen können:
 ```javascript
-const slot1 = [1,2,3,4,5,6,7,8,9];
+var slot1 = [1,2,3,4,5,6,7,8,9];
 ```
 
 Mit einer Funktion lässt sich der Aufruf eines zufälligen Wertes aus einem der Arrays automatisieren:
