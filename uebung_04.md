@@ -45,8 +45,28 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 ## Referenzen und weiterführende Links
 
+### Beispieldaten zum Testen
+
+- [Video mp4/h.624/AAC](https://www.dropbox.com/s/xqp2ru8rnox3yq1/HTML_stunde4_videosample_h264.mp4?dl=1)
+- [Video mp4/h.265/AAC](https://www.dropbox.com/s/yjqsfy2zigrd5ks/HTML_stunde4_videosample_h265.mp4?dl=1)
+- [Video webm/AV1/Opus](https://www.dropbox.com/s/q6h6kjfawhz4q0d/HTML_stunde4_videosample_av1.webm?dl=1)
+
 ### MDN
 
 - [`<video>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/video)
 - [`<audio>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/audio)
 - [Funktionen in Javascript](https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Funktionen)
+
+### Caniuse
+
+- [H.264](https://caniuse.com/#search=h.264)
+- [H.265](https://caniuse.com/#search=h.265)
+- [AV1](https://caniuse.com/#search=av1)
+
+### Converter und Encoder
+
+- [Handbrake](https://handbrake.fr/)
+- [Boram](https://github.com/Kagami/boram)
+- [ffmpeg](https://www.ffmpeg.org/) (CLI)
+- [rav1e](https://github.com/xiph/rav1e) (Encoder, nur Windows)
+- [dav1d](https://code.videolan.org/videolan/dav1d) (Decoder)
