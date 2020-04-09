@@ -38,6 +38,14 @@ Gestalte den Player mit `CSS`, ansprechend und funktional. Er sollte direkt resp
 - Informiere dich über die weiteren vordefinierten Funktionalitäten des `<video>`-Elements und verbessere deinen Player, zB. mit Seeking, Mute, oder weiteren Funktionen. Als Vorlage können zB. [Youtube](https://www.youtube.com/), [Vimeo](https://vimeo.com/), oder [Twitch](https://www.twitch.tv/) dienen.
 - Auf die gleiche Weise lässt sich auch ein Audioplayer mit dem `<audio>`-Element umsetzen.
 
+**Tip:**
+
+Wenn man schnell mal ein paar Videos in Dropbox hosten möchte, kann man das `<video>` Element auch direkt dort hin zeigen lassen. Dafür generiert man einen normalen "Share" Link und hängt statt `?dl=0` einfach `?raw=1` ans Ende.
+
+```html
+<video src="https://www.dropbox.com/s/xqp2ru8rnox3yq1/HTML_stunde4_videosample_h264.mp4?raw=1" type="video/mp4" playsinline controls></video>
+```
+
 ## Dauer und Abgabe
 
 Die veranschlagte Bearbeitungszeit für diese Aufgabe beträgt 7 Tage, bis zur nächsten Kursstunde.  
@@ -70,3 +78,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [ffmpeg](https://www.ffmpeg.org/) (CLI)
 - [rav1e](https://github.com/xiph/rav1e) (Encoder, nur Windows)
 - [dav1d](https://code.videolan.org/videolan/dav1d) (Decoder)
+
+### Sonstiges
+
+- [New video policies for iOS](https://webkit.org/blog/6784/new-video-policies-for-ios/) (Version 10+)
