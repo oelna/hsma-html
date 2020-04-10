@@ -38,12 +38,26 @@ Gestalte den Player mit `CSS`, ansprechend und funktional. Er sollte direkt resp
 - Informiere dich über die weiteren vordefinierten Funktionalitäten des `<video>`-Elements und verbessere deinen Player, zB. mit Seeking, Mute, oder weiteren Funktionen. Als Vorlage können zB. [Youtube](https://www.youtube.com/), [Vimeo](https://vimeo.com/), oder [Twitch](https://www.twitch.tv/) dienen.
 - Auf die gleiche Weise lässt sich auch ein Audioplayer mit dem `<audio>`-Element umsetzen.
 
-**Tip:**
+**Tip: Video-Hosting in Dropbox**
 
-Wenn man schnell mal ein paar Videos in Dropbox hosten möchte, kann man das `<video>` Element auch direkt dort hin zeigen lassen. Dafür generiert man einen normalen "Share" Link und hängt statt `?dl=0` einfach `?raw=1` ans Ende.
+Wenn man schnell mal ein paar Videos in [Dropbox](https://arnorichter.de/hsma/dropbox) hosten möchte, kann man das `<video>` Element auch direkt dort hin zeigen lassen. Dafür generiert man einen normalen "Share" Link und hängt statt `?dl=0` einfach `?raw=1` ans Ende.
 
 ```html
 <video src="https://www.dropbox.com/s/xqp2ru8rnox3yq1/HTML_stunde4_videosample_h264.mp4?raw=1" type="video/mp4" playsinline controls></video>
+```
+
+**Tip: HEVC und AV1**
+
+Will man H.264 und H.265 (und AV1?) anbieten, sind beide Dateien in .mp4 Containern. Dass der Browser, wenn er es abspielen kann, das modernere H.265 verwendet, sollte man auf die komplexere Schreibweise mit `<source>` Elementen mit [Angabe verwendeter Codecs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/codecs_parameter) zurückgreifen. So kann der Browser das für ihn passende Format erkennen und auswählen. Das nachfolgende Beispiel von [Stackoverflow](https://stackoverflow.com/a/51812229) demonstriert das. Hier kombiniert mit dem Artikel von [evilmartians.com](https://evilmartians.com/chronicles/better-web-video-with-av1-codec):
+
+```html
+<video playsinline>
+    <source src="video_av1.webm" type="video/webm; codecs=av01.0.05M.08,opus" />
+    <source src="video_h265.mp4" type="video/mp4; codecs=hevc,mp4a.40.2" />
+    <source src="video_h264.mp4" type="video/mp4; codecs=avc1.4D401E,mp4a.40.2"/>
+
+    <a href="video_h264.mp4">Download movie</a>
+</video>
 ```
 
 ## Dauer und Abgabe
@@ -55,7 +69,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 ### Beispieldaten zum Testen
 
-- [Video mp4/h.624/AAC](https://www.dropbox.com/s/xqp2ru8rnox3yq1/HTML_stunde4_videosample_h264.mp4?dl=1)
+- [Video mp4/h.264/AAC](https://www.dropbox.com/s/xqp2ru8rnox3yq1/HTML_stunde4_videosample_h264.mp4?dl=1)
 - [Video mp4/h.265/AAC](https://www.dropbox.com/s/yjqsfy2zigrd5ks/HTML_stunde4_videosample_h265.mp4?dl=1)
 - [Video webm/AV1/Opus](https://www.dropbox.com/s/q6h6kjfawhz4q0d/HTML_stunde4_videosample_av1.webm?dl=1)
 
@@ -82,3 +96,4 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 ### Sonstiges
 
 - [New video policies for iOS](https://webkit.org/blog/6784/new-video-policies-for-ios/) (Version 10+)
+- [Get Safari to prefer H.265](https://stackoverflow.com/questions/48902078/get-safari-to-prefer-hevc-in-html-5-video-tag)
