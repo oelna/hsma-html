@@ -28,6 +28,11 @@ Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["INT:
 - [#100DaysOfVanillaJS](https://dev.to/search?q=100DaysOfVanillaJS) von Tae'lur Alexis (Mehrteiliger JS-Kurs, englisch, super!)
 - [Liste aller wichtigen Metadaten im `<head>`](https://gist.github.com/oelna/192663f21e81e5467658332259b90a09)
 
+### Eigene Domain registrieren
+
+- [porkbun.com](https://porkbun.com)
+- [inwx.de](https://www.inwx.com/de/)
+
 ### Angebot: GitHub Student Developer Pack
 
 Das [GitHub Student Developer Pack](https://education.github.com/pack) ist eine Sammlung **kostenloser** Software- und Onlinedienst-Angebote, die Studierenden, die einen Github-Account [besitzen](https://education.github.com/benefits) ([oder erstellen!](https://github.com/join)) kostenlos zur Verfügung gestellt wird.  
