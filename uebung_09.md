@@ -109,12 +109,12 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [SVG Image Maps](https://gist.github.com/oelna/1efd149dcb9ea0fa8b526a44ff108446) (klickbare Bereiche in Bildern)
 - [Random Title Generator](https://gist.github.com/oelna/d85427f6704c2904f537bfec62ca79ec) (zufällig generierte Text-Titel)
 - [Order Numerals Game](https://github.com/oelna/order-numerals-game) ([Demo](https://oelna.github.io/order-numerals-game/)) (Kurzzeitgedächtnis-Test)
-- [Highscore Module](https://gist.github.com/oelna/e2c2b3be7ab2721392e102d1aaff15e8)
 
 ### Libraries und Tutorials
 
 - [Vue.js](https://vuejs.org/) (Framework für Webanwendungen, [Wikipedia-Link](https://de.wikipedia.org/wiki/Vue.js))
 - [Dragula](https://bevacqua.github.io/dragula/) (drag and drop Library)
+- [Highscore Module](https://gist.github.com/oelna/e2c2b3be7ab2721392e102d1aaff15e8)
 - [random.js](https://github.com/oelna/random.js) (Zufallszahlen generieren)
 - [chance.js](https://github.com/chancejs/chancejs) (Bessere Zufallszahlen generieren, dafür komplexer)
 - [Javascript Game Loops](https://developer.mozilla.org/en-US/docs/Games/Anatomy) (MDN)
