@@ -26,6 +26,7 @@ Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["INT:
 - [Zusammenfassung der Inhalte aus INT](https://github.com/oelna/hsma-int/blob/master/test-vorbereitung.md)
 - [Javascript Crash-Course](https://gist.github.com/oelna/5b7fa9f53331130ba4281d23532f3dff)
 - [#100DaysOfVanillaJS](https://dev.to/search?q=100DaysOfVanillaJS) von Tae'lur Alexis (Mehrteiliger JS-Kurs, englisch, super!)
+- [Merkblatt zu Dateikompression](https://gist.github.com/oelna/828e5b9c5702b635b56fd1a1d463943c)
 - [Liste aller wichtigen Metadaten im `<head>`](https://gist.github.com/oelna/192663f21e81e5467658332259b90a09)
 
 ### Eigene Domain registrieren
