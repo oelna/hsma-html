@@ -60,6 +60,8 @@ Will man H.264 und H.265 (und AV1?) anbieten, sind beide Dateien in .mp4 Contain
 </video>
 ```
 
+[Info über die `codecs`-Kürzel](https://wiki.whatwg.org/wiki/Video_type_parameters)
+
 ## Dauer und Abgabe
 
 Die veranschlagte Bearbeitungszeit für diese Aufgabe beträgt 7 Tage, bis zur nächsten Kursstunde.  
