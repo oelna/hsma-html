@@ -46,4 +46,5 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 ### Verschiedene
 
 - [CSS-Tricks: Responsive Images](https://css-tricks.com/responsive-images-css/) (englisch)
+- [DPI.lv](https://dpi.lv/) Auflösung von Screens berechnen (englisch)
 - [Understanding DPI](https://affinityspotlight.com/article/understanding-dpi/) (englisch)
