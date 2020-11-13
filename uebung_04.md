@@ -53,7 +53,7 @@ Will man H.264 und H.265 (und AV1?) anbieten, sind beide Dateien in .mp4 Contain
 ```html
 <video playsinline>
     <source src="video_av1.webm" type="video/webm; codecs=av01.0.05M.08,opus" />
-    <source src="video_h265.mp4" type="video/mp4; codecs=hevc,mp4a.40.2" />
+    <source src="video_h265.mp4" type="video/mp4; codecs=hvc1,mp4a.40.2" />
     <source src="video_h264.mp4" type="video/mp4; codecs=avc1.4D401E,mp4a.40.2"/>
 
     <a href="video_h264.mp4">Download movie</a>
