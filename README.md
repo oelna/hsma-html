@@ -34,6 +34,13 @@ Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["INT:
 - [porkbun.com](https://porkbun.com)
 - [inwx.de](https://www.inwx.com/de/)
 
+### Apps und Programme
+
+- [Sublime Text](https://www.sublimetext.com) (Code Editor, $80)
+- [CodeRunner](https://coderunnerapp.com) (IDE, $25)
+- [Transmit](https://panic.com/transmit/) (FTP Client, $45)
+- [Nova](https://panic.com/nova/) (IDE, $99)
+
 ### Angebot: GitHub Student Developer Pack
 
 Das [GitHub Student Developer Pack](https://education.github.com/pack) ist eine Sammlung **kostenloser** Software- und Onlinedienst-Angebote, die Studierenden, die einen Github-Account [besitzen](https://education.github.com/benefits) ([oder erstellen!](https://github.com/join)) kostenlos zur Verfügung gestellt wird.  
