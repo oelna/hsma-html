@@ -45,12 +45,18 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [Pfade](https://developer.mozilla.org/de/docs/Web/SVG/Tutorial/Pfade)
 - [`<use>`](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/use) (englisch)
 
+### Path Editor
+
+- [Cubic Bézier Curve Example](http://blogs.sitepointstatic.com/examples/tech/svg-curves/cubic-curve.html)
+- [jxnblk.github.io/paths](https://jxnblk.github.io/paths/)
+- [editor.method.ac](https://editor.method.ac)
+
 ### Verschiedene
 
 - [SVG](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics) (Wikipedia)
 - [An in-depth SVG tutorial](https://flaviocopes.com/svg/) (englisch)
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) (englisch)
-- [Cubic Bézier Curve Example](http://blogs.sitepointstatic.com/examples/tech/svg-curves/cubic-curve.html)
+- [The Bezier Game](https://bezier.method.ac)
 - [An illustrated guide to the `path` syntax](https://css-tricks.com/svg-path-syntax-illustrated-guide/)
 - [StackOverflow: Is the `xmlns` parameter needed?](https://stackoverflow.com/a/34249810/3625228)
 
