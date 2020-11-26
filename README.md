@@ -1,3 +1,5 @@
+# Aufgaben
+
 Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannheim](http://www.gestaltung.hs-mannheim.de)
 
 Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch einen Einsteig in Programmierung mit Javascript. Die Kurszeit ist in der Regel aufgeteilt in zwei Hälften; die erste behandelt HTML, CSS und verschiedene verwandte Themen, die zweite, nach einer kurzen Pause, immer bestimmte Aspekte von Javascript. Manchmal gibt es zur Übung eine, manchmal zwei verschiedene Aufgaben.
