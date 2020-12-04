@@ -23,7 +23,7 @@ Denke auch daran, deine JPG- oder PNG-Dateien mit [ImageOptim](https://imageopti
 
 **Bonusaufgabe:**
 
-- Verwende das `type`-Attribut, um deinen `<picture>`-Elementen Bilddateien in verschiedenen Formaten zur Verfügung zu stellen, zum Beispiel in [`.WEBP`](https://de.wikipedia.org/wiki/WebP)
+- Verwende das `type`-Attribut, um deinen `<picture>`-Elementen Bilddateien in verschiedenen Formaten zur Verfügung zu stellen, zum Beispiel in [`.WEBP`](https://de.wikipedia.org/wiki/WebP). ([Example Repo mit Code](https://github.com/oelna/picture-element-example))
 
 ## Dauer und Abgabe
 
