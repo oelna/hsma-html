@@ -12,7 +12,7 @@ Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch ei
 - [Stunde 3b: Zufällige Buchstaben](uebung_03b.md)
 - [Stunde 4: Videoplayer](uebung_04.md)
 - [Stunde 5: SVG Bedienelemente](uebung_05.md)
-- Stunde 6: Git (Keine Aufgabe)
+- Stunde 6: [Git](https://github.com/oelna/hsma-html/issues/54) (Keine Aufgabe)
 - [Stunde 6: Slideshow](uebung_06.md)
 - Stunde 7: Keine Aufgabe
 - [Stunde 8: Responsive Images](uebung_08.md)
