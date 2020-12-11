@@ -101,6 +101,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [Die Myst-Ära](https://de.wikipedia.org/wiki/Adventure#Die_Myst-%C3%84ra) (Wikipedia)
 - [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 - [ChooseYourStory.com](http://chooseyourstory.com/) (Choose-Your-Own-Adventure style storygames)
+- [Twine](https://twinery.org) (Choose-Your-Own-Adventure games im Browser erstellen)
 - [AI Dungeon](http://ai-adventure.appspot.com/), [AI Dungeon 2](https://play.aidungeon.io/) (AI generated text adventure)
 - [Dolmenlore](https://mass-driver.com/dolmenlore) (vue.js-based text adventure)
 
