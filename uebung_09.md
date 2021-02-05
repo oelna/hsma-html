@@ -89,7 +89,7 @@ Die veranschlagte Bearbeitungszeit für diese Aufgabe beträgt `n` Tage, bis zum
 Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblicherweise 1-3 Wochen nach Semesterende. Zu diesem Zeitpunkt sind zu übermitteln:
 
 - `URL` des Projekts zu Präsentationszwecken
-- Quelldaten des Projekts als Archiv, zB. `.zip`
+- Quelldaten des Projekts als Archiv, zB. `.zip` per Email oder [Dropbox Upload](http://arnorichter.de/hsma/abgabe/) (geht auch ohne Account!)
 - Textliche Angaben zu Quellen und durch andere Personen erhaltene Hilfen
 - Textliche Angaben zu verwendeter Software, wie Libraries und Plugins
 
