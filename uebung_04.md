@@ -97,6 +97,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 ### Sonstiges
 
+- [Next-Gen video codecs](https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg)
 - [Better Web Video with AV1](https://evilmartians.com/chronicles/better-web-video-with-av1-codec)
 - [New video policies for iOS](https://webkit.org/blog/6784/new-video-policies-for-ios/) (Version 10+)
 - [Get Safari to prefer H.265](https://stackoverflow.com/questions/48902078/get-safari-to-prefer-hevc-in-html-5-video-tag)
