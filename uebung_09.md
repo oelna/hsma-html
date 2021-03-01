@@ -105,6 +105,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [AI Dungeon](http://ai-adventure.appspot.com/), [AI Dungeon 2](https://play.aidungeon.io/) (AI generated text adventure)
 - [Dolmenlore](https://mass-driver.com/dolmenlore) (vue.js-based text adventure)
 - [BASIC computer games](https://github.com/coding-horror/basic-computer-games)
+- [The Secret to Creating Fun Games](https://gist.github.com/polm/05db396cf08b9ec2a81c)
 
 ### Code-Beispiele
 
