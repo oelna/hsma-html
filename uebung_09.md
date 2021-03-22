@@ -113,6 +113,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [Random Title Generator](https://gist.github.com/oelna/d85427f6704c2904f537bfec62ca79ec) (zufällig generierte Text-Titel)
 - [Zufall mit Basiswert](https://gist.github.com/oelna/93f702533df27944ca6288e48de780c1) (Sunless Sea Style challenges)
 - [Order Numerals Game](https://github.com/oelna/order-numerals-game) ([Demo](https://oelna.github.io/order-numerals-game/)) (Kurzzeitgedächtnis-Test)
+- [Youtube-Tutorial für ein JS Adventure](https://www.youtube.com/watch?v=R1S_NhKkvGA)
 
 ### Libraries und Tutorials
 
