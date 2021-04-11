@@ -60,4 +60,4 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [The Bezier Game](https://bezier.method.ac)
 - [An illustrated guide to the `path` syntax](https://css-tricks.com/svg-path-syntax-illustrated-guide/)
 - [StackOverflow: Is the `xmlns` parameter needed?](https://stackoverflow.com/a/34249810/3625228)
-
+- [Using Javascript with SVG](https://www.petercollingridge.co.uk/tutorials/svg/interactive/javascript/) (SVG -> Javascript interface options)
