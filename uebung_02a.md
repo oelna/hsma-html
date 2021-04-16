@@ -42,6 +42,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 ### Verschiedene
 
+- [Arnos 6-spaltiges Grid Layout](https://gist.github.com/oelna/d05244d2fc8efb833f9f4e1e7b2a1726) (Einfache Demo)
 - [Learn CSS Grid](https://learncssgrid.com)
 - [Grid Generator](https://cssgrid-generator.netlify.com)
 - [LayoutIt Grid Generator](https://grid.layoutit.com/)
