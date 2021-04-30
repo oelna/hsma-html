@@ -41,3 +41,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 ### StackOverflow
 
 - [innerHTML, innerTextm, textContent, nodeValue](https://stackoverflow.com/questions/21311299/nodevalue-vs-innerhtml-and-textcontent-how-to-choose)
+
+### Andere
+
+- [O’Reilly: `if/else` vs. `switch`](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html#if-else_versus_switch)
