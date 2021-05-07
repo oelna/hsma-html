@@ -126,3 +126,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [Javascript Game Loops](https://developer.mozilla.org/en-US/docs/Games/Anatomy) (MDN)
 - [Responsive Image Maps](https://wiki.selfhtml.org/wiki/SVG/Tutorials/responsive_Imagemaps) (SelfHTML)
 - [My JSON Server](https://my-json-server.typicode.com/) (Simple API mit JSON und Github)
+
+### Assets
+
+- [Kenney.nl Assets](https://kenney.nl/assets) (unfassbar viele kostenfreie Grafiken für Minigames)
