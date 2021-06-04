@@ -105,6 +105,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [Twine](https://twinery.org) (Choose-Your-Own-Adventure games im Browser erstellen) ([Twine App Builder](https://github.com/lazerwalker/twine-app-builder))
 - [AI Dungeon](http://ai-adventure.appspot.com/), [AI Dungeon 2](https://play.aidungeon.io/) (AI generated text adventure)
 - [Dolmenlore](https://mass-driver.com/dolmenlore) (vue.js-based text adventure)
+- [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) (1977, [Play online](https://quuxplusone.github.io/Advent/play.html))
 - [BASIC computer games](https://github.com/coding-horror/basic-computer-games)
 - [The Secret to Creating Fun Games](https://gist.github.com/polm/05db396cf08b9ec2a81c)
 
