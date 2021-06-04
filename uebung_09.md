@@ -113,6 +113,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 
 - [SVG Image Maps](https://gist.github.com/oelna/1efd149dcb9ea0fa8b526a44ff108446) (klickbare Bereiche in Bildern)
 - [Random Title Generator](https://gist.github.com/oelna/d85427f6704c2904f537bfec62ca79ec) (zufällig generierte Text-Titel)
+- [Adventure Game Sandboxes](https://github.com/oelna/javascript-adventures) (meine eigenen Ansätze für die Aufgabe)
 - [Zufall mit Basiswert](https://gist.github.com/oelna/93f702533df27944ca6288e48de780c1) (Sunless Sea Style challenges)
 - [Order Numerals Game](https://github.com/oelna/order-numerals-game) ([Demo](https://oelna.github.io/order-numerals-game/)) (Kurzzeitgedächtnis-Test)
 - [Youtube-Tutorial für ein JS Adventure](https://www.youtube.com/watch?v=R1S_NhKkvGA)
