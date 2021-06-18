@@ -8,11 +8,11 @@ Eine unvollständige Liste von Projekten, die auf Github verfügbar sind
 
 ## SS 20
 
-- [Royal Game of Ur](https://selimhex.com/portal/UR/)
+- [Royal Game of Ur](https://selimhex.com/portal/UR/) by [@selimhex](https://github.com/selimhex)
 
 ## WS 19/20
 
-- [Snake](https://github.com/Uno1404/Uno1404.github.io)
-- [Mensaria Madness](https://github.com/beniwonka/mensaria-madness)
-- [Catchy Tunes](https://github.com/delila-lenz/catchy-tunes)
-- [Wimmelgame](https://github.com/kkommits/wimmelgame)
+- [Snake](https://github.com/Uno1404/Uno1404.github.io) by [@Uno1404](https://github.com/Uno1404)
+- [Mensaria Madness](https://github.com/beniwonka/mensaria-madness) by [@beniwonka](https://github.com/beniwonka)
+- [Catchy Tunes](https://github.com/delila-lenz/catchy-tunes) by [@delila-lenz](https://github.com/delila-lenz)
+- [Wimmelgame](https://github.com/kkommits/wimmelgame) by [@kkommits](https://github.com/kkommits)
