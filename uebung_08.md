@@ -46,6 +46,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 ### Verschiedene
 
 - [CSS-Tricks: Responsive Images](https://css-tricks.com/responsive-images-css/) (englisch)
+- [Serving sharp images to Retina screens](https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/)
 - [Image Resizing with Imagemagick](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/) (englisch)
 - [DPI.lv](https://dpi.lv/) Auflösung von Screens berechnen (englisch)
 - [Understanding DPI](https://affinityspotlight.com/article/understanding-dpi/) (englisch)
