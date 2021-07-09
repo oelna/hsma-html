@@ -5,6 +5,8 @@ Eine unvollständige Liste von Projekten, die auf Github verfügbar sind
 ## SS 21
 
 - [Labyrinth](https://curlybcurly.github.io/hsma-2021-html/game/index.html) by [@curlybcurly](https://github.com/curlybcurly)
+- [Bunny Hop Survival](https://github.com/TEE-ROY-COMICS/bunnyhopsurvival) by [Tanmoy Roy](https://github.com/TEE-ROY-COMICS)
+- [Number Game](https://lenapassek.github.io/HTML-Kurs/Game/game.html) by [@lenapassek](https://github.com/lenapassek)
 
 ## SS 20
 
