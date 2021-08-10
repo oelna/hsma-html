@@ -42,6 +42,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [ImageOptim](https://imageoptim.com/versions) (Mac)
 - [FileOptimizer](https://sourceforge.net/projects/nikkhokkho/) (Win)
 - [Squoosh](https://squoosh.app/) (Website)
+- [avif CLI converter](https://github.com/Kagami/go-avif/releases) (Mac, Win)
 
 ### Verschiedene
 
