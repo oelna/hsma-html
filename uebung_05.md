@@ -57,6 +57,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [SVG](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics) (Wikipedia)
 - [An in-depth SVG tutorial](https://flaviocopes.com/svg/) (englisch)
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) (englisch)
+- [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw) (english, 25m video)
 - [SVG Path Visualizer](https://svg-path-visualizer.netlify.app/) (english)
 - [The Bezier Game](https://bezier.method.ac)
 - [An illustrated guide to the `path` syntax](https://css-tricks.com/svg-path-syntax-illustrated-guide/)
