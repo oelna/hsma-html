@@ -51,3 +51,6 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [Image Resizing with Imagemagick](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/) (englisch)
 - [DPI.lv](https://dpi.lv/) Auflösung von Screens berechnen (englisch)
 - [Understanding DPI](https://affinityspotlight.com/article/understanding-dpi/) (englisch)
+- [Next generation image codecs](https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg) (siehe Bild unten)
+
+![](https://res.cloudinary.com/cloudinary-marketing/image/upload/w_700,c_fill,f_auto,q_auto,dpr_2.0/Web_Assets/blog/Battle-of-the-Codecs_fnl.png)
