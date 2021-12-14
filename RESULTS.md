@@ -1,3 +1,10 @@
+# Werkschau – Fakultät Gestaltung – Hochschule Mannheim
+
+Für alle, die auf der Suche nach Infos zur Werkschau sind: das Team hat leider versäumt, sich die Domain [werkschaumannheim.de](https://werkschaumannheim.de/) zu registrieren. Falls Sie die offizielle Seite sehen möchten, diese liegt unter [diewerkschaumannheim.de](http://diewerkschaumannheim.de)
+
+Nutzen Sie aber auch gerne die Gelegenheit, einige der Arbeiten anzuschauen, die in den vergangenen Semestern im Bereich Interaktive Medien entstanden sind. Das Institut IAM ist in der Regel auf der Werkschau etwas unterrepräsentiert und verdient mehr Aufmerksamkeit. Vielen Dank für Ihre Zeit!
+
+
 # Arbeiten, die im Kurs entstanden sind
 
 Eine unvollständige Liste von Projekten, die auf Github verfügbar sind
