@@ -109,6 +109,7 @@ Die Abgabe dieser Aufgabe findet an einem zu vereinbarenden Termin statt, üblic
 - [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) (1977, [Play online](https://quuxplusone.github.io/Advent/play.html))
 - [BASIC computer games](https://github.com/coding-horror/basic-computer-games)
 - [The Secret to Creating Fun Games](https://gist.github.com/polm/05db396cf08b9ec2a81c)
+- Procedural Dungeon Generation ([P1](https://github.com/adonaac/blog/issues/1), [P2](https://github.com/adonaac/blog/issues/7), [P3](https://github.com/adonaac/blog/issues/47))
 
 ### Code-Beispiele
 
