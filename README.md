@@ -17,7 +17,7 @@ Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch ei
 - Stunde 7: Keine Aufgabe
 - [Stunde 8: Responsive Images](uebung_08.md)
 - Stunde 9: RSS (Keine Aufgabe)
-- [Stunde 9: Semesteraufgabe - Adventure Game](uebung_09.md)
+- Stunde 9: Semesteraufgabe - [Adventure Game](uebung_09.md) / [Online-Galerie](uebung_09b.md)
 
 ### Voraussetzung
 
