@@ -23,6 +23,14 @@ Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch ei
 
 Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["INT: Internet-Technik"](https://github.com/oelna/hsma-int) auf. Um teilzunehmen sind einigermaßen solide Grundkenntnisse in HTML und CSS erforderlich. Diese müssen nicht in INT erworben worden sein, sondern können zB. auch aus den unten genannten Büchern stammen, oder anhand der [Aufgaben und Materialien vom ersten Semester](https://github.com/oelna/hsma-int) wiederholt werden.
 
+### Evaluation
+
+https://forms.gle/qrSGjjo5KdVZDvm86 (WS 21/22)
+
+Bitte nehmen Sie sich kurz Zeit für die Kursevaluation. Ihr Feedback hilft uns, die Veranstaltungen zu verbessern.
+
+Bitte denkt daran, ein VPN bei der Eingabe der Daten zu verwenden und ein Inkognito-Browserfenster, bei dem ihr nicht in euren Google-Account eingeloggt seid, um die Anonymität zu gewährleisten. Alternativ geht natürlich auch die Abgabe der Papierformulare im Sekretariat.
+
 ### Praktisches Wissen in kompakter Form
 
 - [Zusammenfassung der Inhalte aus INT](https://github.com/oelna/hsma-int/blob/master/test-vorbereitung.md)
