@@ -9,6 +9,10 @@ Nutzen Sie aber auch gerne die Gelegenheit, einige der Arbeiten anzuschauen, die
 
 Eine unvollständige Liste von Projekten, die auf Github verfügbar sind
 
+## WS 21/22
+
+- [The Stack](https://lizkato.github.io/the-stack/) by [@liz_kato](https://github.com/LizKato)
+
 ## SS 21
 
 - [Kumpelfreund chat game](https://lizkato.github.io/Kumpelfreund-chat-game/) by [@liz_kato](https://github.com/LizKato)
