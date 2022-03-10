@@ -11,6 +11,7 @@ Eine unvollständige Liste von Projekten, die auf Github verfügbar sind
 
 ## WS 21/22
 
+- [SpaceJunk](https://cosima-w.github.io/SpaceJunk/) by [@cosima-w](https://github.com/cosima-w/SpaceJunk)
 - [The Stack](https://lizkato.github.io/the-stack/) by [@liz_kato](https://github.com/LizKato)
 
 ## SS 21
