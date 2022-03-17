@@ -13,6 +13,7 @@ Eine unvollständige Liste von Projekten, die auf Github verfügbar sind
 
 - [SpaceJunk](https://cosima-w.github.io/SpaceJunk/) by [@cosima-w](https://github.com/cosima-w/SpaceJunk)
 - [The Stack](https://lizkato.github.io/the-stack/) by [@liz_kato](https://github.com/LizKato)
+- [COVID-Alert Game](https://Orevvero.github.io/Covid-Alert-Game) by [@Orevvero](https://github.com/Orevvero/Covid-Alert-Game)
 
 ## SS 21
 
