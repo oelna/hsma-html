@@ -34,6 +34,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 ### Elemente
 
 - [Simple Slideshow with Flexbox](http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/) (englisch)
+- [Slideshow based on CSS Grid](https://codepen.io/ste-vg/pen/mdXmgvZ)
 
 #### MDN
 
