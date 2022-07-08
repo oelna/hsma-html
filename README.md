@@ -25,7 +25,7 @@ Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["INT:
 
 ### Evaluation
 
-https://forms.gle/qrSGjjo5KdVZDvm86 (WS 21/22)
+https://forms.gle/x1TMNmWzEw8vHdrC8 (SS 22)
 
 Bitte nehmen Sie sich kurz Zeit für die Kursevaluation. Ihr Feedback hilft uns, die Veranstaltungen zu verbessern.
 
