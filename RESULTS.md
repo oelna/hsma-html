@@ -9,6 +9,10 @@ Nutzen Sie aber auch gerne die Gelegenheit, einige der Arbeiten anzuschauen, die
 
 Eine unvollständige Liste von Projekten, die auf Github verfügbar sind
 
+## SS 22
+
+- [Race For Space](https://krayboul.github.io/Race-For-Space/) by [@KrayBoul](https://github.com/KrayBoul/Race-For-Space)
+
 ## WS 21/22
 
 - [SpaceJunk](https://cosima-w.github.io/SpaceJunk/) by [@cosima-w](https://github.com/cosima-w/SpaceJunk)
