@@ -52,6 +52,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [editor.method.ac](https://editor.method.ac)
 - [SVG Warp Tool](https://pavellaptev.github.io/warp-svg/)
 - [Ssshape](https://fffuel.co/ssshape/)
+- [SVG Path Visualizer](https://svg-path-visualizer.netlify.app/#M140%2020C73%2020%2020%2074%2020%20140c0%20135%20136%20170%20228%20303%2088-132%20229-173%20229-303%200-66-54-120-120-120-48%200-90%2028-109%2069-19-41-60-69-108-69z)
 
 ### Verschiedene
 
