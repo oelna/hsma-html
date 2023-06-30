@@ -25,9 +25,9 @@ Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["INT:
 
 ### Evaluation
 
-https://forms.gle/x1TMNmWzEw8vHdrC8 (SS 22)
+https://forms.gle/kF8nX6a3RrC7hog48 (SS 23)
 
-Bitte nehmen Sie sich kurz Zeit für die Kursevaluation. Ihr Feedback hilft uns, die Veranstaltungen zu verbessern.
+Bitte nehmt euch kurz Zeit für die Kursevaluation. Euer Feedback hilft mir, die Veranstaltungen zu verbessern.
 
 Bitte denkt daran, ein VPN bei der Eingabe der Daten zu verwenden und ein Inkognito-Browserfenster, bei dem ihr nicht in euren Google-Account eingeloggt seid, um die Anonymität zu gewährleisten. Alternativ geht natürlich auch die Abgabe der Papierformulare im Sekretariat.
 
