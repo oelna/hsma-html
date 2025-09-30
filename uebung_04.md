@@ -94,6 +94,8 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [ffmpeg](https://www.ffmpeg.org/) (CLI)
 - [rav1e](https://github.com/xiph/rav1e) (Encoder, nur Windows)
 - [dav1d](https://code.videolan.org/videolan/dav1d) (Decoder)
+- [Online Video Editor](https://edit.video/)
+- [Online Photo Editor](https://edit.photo/)
 
 ### Sonstiges
 
