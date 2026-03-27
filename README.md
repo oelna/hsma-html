@@ -75,13 +75,13 @@ Die genannten Bücher sind in keinster Weise für die Teilnahme am Kurs erforder
 
 (Amazon Affiliate Links)
 
-Ehrlich gesagt ist auch die komplette (englische) "A Book Apart"-Reihe richtig gut und kurzweilig zu lesen, aber wenn man nur die für den Kurs wichtigsten Bände lesen will:
+Ehrlich gesagt ist auch die komplette (englische) "A Book Apart"-Reihe ([Mirror](https://authors-together.org)) richtig gut und kurzweilig zu lesen, aber wenn man nur die für den Kurs wichtigsten Bände lesen will:
 
-- [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
+- [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers) ([Web-Mirror](https://html5forwebdesigners.com/))
 - [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
-- [Javascript for Web Designers](https://abookapart.com/products/javascript-for-web-designers)
-- [Responsive Web Design](https://abookapart.com/products/responsive-web-design)
-- [Mobile First](https://abookapart.com/products/mobile-first)
+- [Javascript for Web Designers](https://abookapart.com/products/javascript-for-web-designers) ([Web-Mirror](https://javascriptforwebdesigners.com/))
+- [Responsive Web Design](https://abookapart.com/products/responsive-web-design) ([Web-Mirror](https://ethanmarcotte.com/books/responsive-web-design/))
+- [Mobile First](https://abookapart.com/products/mobile-first) ([Web-Mirror](https://mobile-first.abookapart.com/))
 
 Und weiterführend
 
