@@ -1,6 +1,6 @@
 # Aufgaben
 
-Kursaufgaben für meinen Kurs `Offenes Projekt: HTML` an der [Hochschule Mannheim](http://www.gestaltung.hs-mannheim.de)
+Kursaufgaben für meinen Kurs VIR `Offenes Projekt: HTML` an der [Hochschule Mannheim](http://www.gestaltung.hs-mannheim.de)
 
 Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch einen Einsteig in Programmierung mit Javascript. Die Kurszeit ist in der Regel aufgeteilt in zwei Hälften; die erste behandelt HTML, CSS und verschiedene verwandte Themen, die zweite, nach einer kurzen Pause, immer bestimmte Aspekte von Javascript. Manchmal gibt es zur Übung eine, manchmal zwei verschiedene Aufgaben.
 
@@ -18,6 +18,10 @@ Der Kurs vermittelt sowohl fortgeschrittene Inhalte in HTML und CSS, als auch ei
 - [Stunde 8: Responsive Images](uebung_08.md)
 - Stunde 9: RSS (Keine Aufgabe)
 - Stunde 9: Semesteraufgabe - [Adventure Game](uebung_09.md) / [Online-Galerie](uebung_09b.md)
+
+## Folien/Slides
+
+Die im Kurs gehaltenen Präsentationen finden sich unter https://arnorichter.de/hsma/html
 
 ### Voraussetzung
 
