@@ -25,7 +25,7 @@ Die im Kurs gehaltenen Präsentationen finden sich unter https://arnorichter.de/
 
 ### Voraussetzung
 
-Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["INT: Internet-Technik"](https://github.com/oelna/hsma-int) auf. Um teilzunehmen sind einigermaßen solide Grundkenntnisse in HTML und CSS erforderlich. Diese müssen nicht in INT erworben worden sein, sondern können zB. auch aus den unten genannten Büchern stammen, oder anhand der [Aufgaben und Materialien vom ersten Semester](https://github.com/oelna/hsma-int) wiederholt werden.
+Der Kurs baut nahezu lückenlos auf die Inhalte meines Erstsemesterkurses ["GCT2: Grundlagen Computer-Technik 2"](https://github.com/oelna/hsma-int) auf. Um teilzunehmen sind einigermaßen solide Grundkenntnisse in HTML und CSS erforderlich. Diese müssen nicht in GCT2 erworben worden sein, sondern können zB. auch aus den unten genannten Büchern stammen, oder anhand der [Aufgaben und Materialien vom ersten Semester](https://github.com/oelna/hsma-int) wiederholt werden.
 
 ### Evaluation
 
@@ -37,7 +37,7 @@ Bitte denkt daran, ein VPN bei der Eingabe der Daten zu verwenden und ein Inkogn
 
 ### Praktisches Wissen in kompakter Form
 
-- [Zusammenfassung der Inhalte aus INT](https://github.com/oelna/hsma-int/blob/master/test-vorbereitung.md)
+- [Zusammenfassung der Inhalte aus GCT2](https://github.com/oelna/hsma-int/blob/master/test-vorbereitung.md)
 - [Javascript Crash-Course](https://gist.github.com/oelna/5b7fa9f53331130ba4281d23532f3dff)
 - [Javascript Browser Objects und APIs](https://gist.github.com/oelna/4c3fc8796b4e290df6337d7cb9fdab6a)
 - [#100DaysOfVanillaJS](https://dev.to/search?q=100DaysOfVanillaJS) von Tae'lur Alexis (Mehrteiliger JS-Kurs, englisch, super!)
